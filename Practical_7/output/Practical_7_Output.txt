@@ -1,0 +1,18 @@
+Practical 7: Dumbbell TCP/UDP Network
+Command: ./ns3 run scratch/dumbbell-practical7
+Return code: 0
+
+========== STANDARD OUTPUT ==========
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+===== DUMBBELL NETWORK RESULTS =====
+
+TCP Received Bytes: 29927656
+UDP Received Bytes: 14599168
+TCP Average Throughput: 6.13901 Mbps
+UDP Average Throughput: 5.83967 Mbps
+====================================
+
+========== STANDARD ERROR ==========
+(No standard error)

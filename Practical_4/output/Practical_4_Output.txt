@@ -1,0 +1,19 @@
+Practical 4: Point-to-Point and CSMA Network
+Command: ./ns3 run scratch/csma-p2p-practical4
+Return code: 0
+
+========== STANDARD OUTPUT ==========
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+===== P2P AND CSMA RESULTS =====
+P2P Bandwidth: 5 Mbps
+CSMA Bandwidth: 100 Mbps
+P2P Network: 10.1.1.0
+CSMA Network: 10.1.2.0
+UDP Packets: 5
+Packet Size: 1024 bytes
+================================
+
+========== STANDARD ERROR ==========
+(No standard error)

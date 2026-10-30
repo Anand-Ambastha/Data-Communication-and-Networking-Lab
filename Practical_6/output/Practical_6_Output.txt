@@ -1,0 +1,19 @@
+Practical 6: Wi-Fi Rate Adaptation
+Command: ./ns3 run scratch/wifi-practical6
+Return code: 0
+
+========== STANDARD OUTPUT ==========
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+===== WIFI RATE ADAPTATION RESULTS =====
+WiFi Standard: IEEE 802.11g
+Rate Adaptation: Minstrel
+Number of Stations: 3
+SSID: NS3-WiFi
+Total Received Bytes: 2998272
+Average Throughput: 2.39862 Mbps
+========================================
+
+========== STANDARD ERROR ==========
+(No standard error)

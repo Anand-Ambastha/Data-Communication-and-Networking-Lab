@@ -1,0 +1,22 @@
+
+PRACTICAL 2: NS-3 INSTALLATION AND CONFIGURATION
+
+Aim:
+To install, configure and verify the NS-3 network simulator.
+
+Software:
+- Linux / Google Colab
+- NS-3 network simulator
+- C++ compiler
+- Python
+
+Procedure:
+1. Install the required dependencies.
+2. Configure NS-3.
+3. Build the simulator.
+4. Execute the hello-simulator example.
+5. Verify successful execution.
+
+Note:
+This is a setup practical. It does not have a separate network simulation
+source file or network topology.

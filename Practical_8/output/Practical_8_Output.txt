@@ -1,0 +1,38 @@
+Practical 8: Ad Hoc Wi-Fi Network
+Command: ./ns3 run scratch/adhoc-practical8
+Return code: 0
+
+========== STANDARD OUTPUT ==========
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+===== AD HOC NETWORK RESULTS =====
+WiFi Standard: 802.11b
+Network IP: 10.1.1.0
+Client IP: 10.1.1.1
+Server IP: 10.1.1.2
+Packet Size: 1024 bytes
+Packets Sent: 5
+==================================
+
+========== STANDARD ERROR ==========
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.01442s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.01442s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.02975s client received 1024 bytes from 10.1.1.2 port 9
+At time +3s client sent 1024 bytes to 10.1.1.2 port 9
+At time +3.00459s server received 1024 bytes from 10.1.1.1 port 49153
+At time +3.00459s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +3.00945s client received 1024 bytes from 10.1.1.2 port 9
+At time +4s client sent 1024 bytes to 10.1.1.2 port 9
+At time +4.00459s server received 1024 bytes from 10.1.1.1 port 49153
+At time +4.00459s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +4.00945s client received 1024 bytes from 10.1.1.2 port 9
+At time +5s client sent 1024 bytes to 10.1.1.2 port 9
+At time +5.00459s server received 1024 bytes from 10.1.1.1 port 49153
+At time +5.00459s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +5.00945s client received 1024 bytes from 10.1.1.2 port 9
+At time +6s client sent 1024 bytes to 10.1.1.2 port 9
+At time +6.00459s server received 1024 bytes from 10.1.1.1 port 49153
+At time +6.00459s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +6.00945s client received 1024 bytes from 10.1.1.2 port 9

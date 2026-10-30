@@ -1,0 +1,18 @@
+Practical 9: UDP Client-Server Communication
+Command: ./ns3 run scratch/udp-practical9
+Return code: 0
+
+========== STANDARD OUTPUT ==========
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+===== UDP TRANSFER RESULTS =====
+Client IP: 10.1.1.1
+Server IP: 10.1.1.2
+Packets Sent: 10
+Packets Received: 8
+Packet Size: 1024 bytes
+================================
+
+========== STANDARD ERROR ==========
+(No standard error)

@@ -1,0 +1,19 @@
+Practical 3: UDP Echo over Point-to-Point Network
+Command: ./ns3 run scratch/udp-echo-practical3
+Return code: 0
+
+========== STANDARD OUTPUT ==========
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+===== UDP ECHO RESULTS =====
+Node 0 IP: 10.1.1.1
+Node 1 IP: 10.1.1.2
+Data Rate: 2 Mbps
+Channel Delay: 2 ms
+Maximum Packets: 5
+Packet Size: 1024 bytes
+============================
+
+========== STANDARD ERROR ==========
+(No standard error)

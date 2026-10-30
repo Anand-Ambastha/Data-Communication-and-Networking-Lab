@@ -1,4 +1,4 @@
-# NS-3 Network Simulation Practicals – DCN Lab (Practical 2–9)
+# NS-3 Network Simulation Practicals – DCN Lab 
 
 Hi, I'm Anand. I'm also a third-year student, and I’m putting these NS-3 practicals together for anyone working through the Data Communication and Networking (DCN) lab at BVCOE or elsewhere in GGSIPU.
 

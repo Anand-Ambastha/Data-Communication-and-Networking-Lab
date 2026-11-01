@@ -1,10 +1,10 @@
-# NS-3 Network Simulation Practicals – DCN Lab 
+# NS-3 Network Simulation Practicals – Data Communication and Networking Lab 
 
 Hi, I'm Anand. I'm also a third-year student, and I’m putting these NS-3 practicals together for anyone working through the Data Communication and Networking (DCN) lab at BVCOE or elsewhere in GGSIPU.
 
 ## A note from one student to another
 
-I’ll be honest: I’m not very familiar with Linux either, and getting NS-3 set up was a bit of a struggle for me. The installation, dependencies, and compilation took time, and I figured other students might run into the same issue.
+I’ll be honest: I’m not very familiar with Linux either, and setting up NS-3 was a bit of a struggle for me. The installation, dependencies, and compilation took time, and I figured other students might run into the same issue.
 
 So I'm sharing both the **C++ source files (`.cc`)** and **Google Colab versions** of the practicals. If you are comfortable using Linux, you can use the source files directly. If, like me, you would rather avoid spending hours sorting out a Linux setup, you can use the Colab versions and run the simulations in your browser.
 
@@ -35,10 +35,8 @@ I'm sharing these as a student resource, not as an official BVCOE or GGSIPU publ
 
 1. Download the required practical code or open the corresponding Colab version.
 2. Open [Google Colab](https://colab.research.google.com/drive/15dieVFkxLZY4grNFRZ-WrynermWUIgyF?usp=sharing).
-3. Create a new notebook, if needed.
-4. Copy the practical code into a code cell.
-5. Run the NS-3 setup cell if it has not already been installed in the runtime.
-6. Allow around an hour for the initial NS-3 build. Once it is complete, run the practical's simulation cell.
+3. Run the NS-3 setup cell if it has not already been installed in the runtime.
+4. Allow around an hour for the initial NS-3 build. Once it is complete, run the practical's simulation cell.
 
 ### Option 2: Linux
 

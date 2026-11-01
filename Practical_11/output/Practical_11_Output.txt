@@ -1,0 +1,82 @@
+Practical 11: Comparative Evaluation of DropTail, RED and CoDel
+Command: ./ns3 run scratch/mini-project11
+Return code: 0
+
+========== STANDARD OUTPUT ==========
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+============================================
+ EXPERIMENT 11: AQM PERFORMANCE COMPARISON
+============================================
+
+Running DropTail at UDP load 4.000 Mbps...
+TCP Throughput: 5.392 Mbps
+UDP Throughput: 3.998 Mbps
+Average Delay: 64.565 ms
+Average Jitter: 0.369 ms
+FlowMonitor Lost Packets: 51
+
+Running DropTail at UDP load 8.000 Mbps...
+TCP Throughput: 1.725 Mbps
+UDP Throughput: 7.971 Mbps
+Average Delay: 111.659 ms
+Average Jitter: 0.318 ms
+FlowMonitor Lost Packets: 215
+
+Running DropTail at UDP load 12.000 Mbps...
+TCP Throughput: 0.041 Mbps
+UDP Throughput: 9.756 Mbps
+Average Delay: 179.381 ms
+Average Jitter: 0.251 ms
+FlowMonitor Lost Packets: 5016
+
+Running RED at UDP load 4.000 Mbps...
+TCP Throughput: 5.087 Mbps
+UDP Throughput: 3.990 Mbps
+Average Delay: 45.822 ms
+Average Jitter: 0.357 ms
+FlowMonitor Lost Packets: 65
+
+Running RED at UDP load 8.000 Mbps...
+TCP Throughput: 1.707 Mbps
+UDP Throughput: 7.906 Mbps
+Average Delay: 66.312 ms
+Average Jitter: 0.316 ms
+FlowMonitor Lost Packets: 386
+
+Running RED at UDP load 12.000 Mbps...
+TCP Throughput: 0.145 Mbps
+UDP Throughput: 9.676 Mbps
+Average Delay: 111.343 ms
+Average Jitter: 0.269 ms
+FlowMonitor Lost Packets: 5174
+
+Running CoDel at UDP load 4.000 Mbps...
+TCP Throughput: 5.385 Mbps
+UDP Throughput: 3.997 Mbps
+Average Delay: 46.668 ms
+Average Jitter: 0.358 ms
+FlowMonitor Lost Packets: 13
+
+Running CoDel at UDP load 8.000 Mbps...
+TCP Throughput: 1.677 Mbps
+UDP Throughput: 7.956 Mbps
+Average Delay: 67.409 ms
+Average Jitter: 0.312 ms
+FlowMonitor Lost Packets: 223
+
+Running CoDel at UDP load 12.000 Mbps...
+TCP Throughput: 0.105 Mbps
+UDP Throughput: 9.740 Mbps
+Average Delay: 156.298 ms
+Average Jitter: 0.269 ms
+FlowMonitor Lost Packets: 5041
+
+============================================
+Simulation completed.
+CSV: /content/exp11-results.csv
+============================================
+
+========== STANDARD ERROR ==========
+(No standard error)
